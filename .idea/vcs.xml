@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Discord" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JFrame-LojadeInformatica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProgramacaoOrientadaObjeto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Senac-AlgoritmosII" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Senac-DataBase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Senac-EstruturaDeDados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Senac-MirrorFashion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Senac-ProjetoIntegrador" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carsoft" vcs="Git" />
+  </component>
+</project>
